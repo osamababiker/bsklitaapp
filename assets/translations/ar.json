@@ -1,0 +1,68 @@
+{
+    "app_name": "بسكليتة",
+    "service_name": "مرسال البيت",
+    "slogan": "اقضي جميع مشاويرك مع خدمة مرسال البيت من بسكليتة",
+
+    "splash_screen_action": "تخطي",
+
+    "signIn_hint": "تسجيل دخول",
+    "signUp_hint": "انشاء حساب",
+
+    "chat_screen_title": "مرسال البيت",
+    "chat_screen_newOrderBtn": "مرسال جديد",
+    "chat_screen_previousOrderBtn": "مراسيل سابقة",
+    "chat_screen_aboutServiceBtn": "عن الخدمة", 
+
+    "bottom_nav_shop": "تسوق",
+    "bottom_nav_settings": "الاعدادت",
+    "bottom_nav_notifications": "الاشعارات",
+    "bottom_nav_profile": "حسابي",
+
+
+    "sign_in_screen_title": "تسجيل دخول",
+    "sign_in_screen_head": "تسجيل دخول",
+    "sign_in_screen_sub_head": "لا تمتلك حسابا ؟",
+    "sign_in_screen_create_account_btn": "انشاء حساب",
+    "sign_in_screen_login_error": "الرجاء التأكد من صحة البيانات",
+    "sign_in_screen_phone_lable": "رقم الهاتف",
+    "sign_in_screen_phone_hint": "ادخل رقم الهاتف",
+    "sign_in_screen_password_lable": "كلمة المرور",
+    "sign_in_screen_password_hint": "ادخل كلمة المرور",
+
+    "sign_up_screen_title": "انشاء حساب",
+    "sign_up_screen_head": "انشاء حساب",
+    "sign_up_screen_sub_head": "انشئ حسابك واستمتع بتجربة تسوق لاتنسى",
+    "sign_up_screen_create_account_btn": "انشاء حساب",
+    "sign_up_screen_login_error": "الرجاء التأكد من صحة البيانات",
+    "sign_up_screen_name_lable": "الاسم كاملا",
+    "sign_up_screen_name_hint": "ادخل الاسم",
+    "sign_up_screen_address_lable": "العنوان",
+    "sign_up_screen_address_hint": "ادخل العنوان",
+    "sign_up_screen_email_lable": "الايميل",
+    "sign_up_screen_email_hint": "ادخل الايميل",
+    "sign_up_screen_phone_lable": "رقم الهاتف",
+    "sign_up_screen_phone_hint": "ادخل رقم الهاتف",
+    "sign_up_screen_password_lable": "كلمة المرور",
+    "sign_up_screen_password_hint": "ادخل كلمة المرور",
+    "sign_up_screen_confirm_password_lable": "تأكيد كلمة المرور",
+    "sign_up_screen_confirm_password_hint": "ادخل كلمة المرور",
+
+    "validation_email_null_error": "الرجاء ادخال الايميل",
+    "validation_email_invalid_error": "الرجاء ادخال ايميل صحيح",
+    "validation_password_null_error": "الرجاء ادخال كلمة المرور",
+    "validation_password_short_error": "كلمة المرور قصيرة جدا",
+    "validation_password_match_error": "كلمة المرور غير متطابقة",
+    "validation_name_null_error": "الرجاء ادخال الاسم",
+    "validation_phone_null_error": "الرجاء ادخال رقم الهاتف",
+    "validation_address_null_error": "الرجاء ادخال عنوان السكن",
+
+    "otp_screen_title": "تأكيد الهوية",
+    "otp_screen_confirm_phone_title": "تأكيد رقم الهاتف",
+    "otp_screen_code_sent_lable": "لقد قمنا بارسال رمز الى",
+    "otp_screen_resend_code_btn": "اعد الارسال",
+    "otp_screen_confirm_btn": "تأكيد",
+    "otp_screen_code_incorrect": "الكود المدخل غير صحيح"
+
+    
+}
+

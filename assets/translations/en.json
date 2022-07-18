@@ -1,0 +1,68 @@
+{
+    "app_name": "bsklita",
+    "service_name": "home messenger",
+    "slogan": "Spend all your trips with the house messenger service from bsklita",
+
+    "splash_screen_action": "skip",
+
+    "signIn_hint": "sign in",
+    "signUp_hint": "create account",
+
+    "chat_screen_title": "home messenger", 
+    "chat_screen_newOrderBtn": "new order",
+    "chat_screen_previousOrderBtn": "Previous orders",
+    "chat_screen_aboutServiceBtn": "About the service",
+
+    "bottom_nav_shop": "shop",
+    "bottom_nav_settings": "settings",
+    "bottom_nav_notifications": "notifications",
+    "bottom_nav_profile": "profile",
+
+
+    "sign_in_screen_title": "sign in",
+    "sign_in_screen_head": "sign in",
+    "sign_in_screen_sub_head": "don't have an account?",
+    "sign_in_screen_create_account_btn": "create an account",
+    "sign_in_screen_login_error": "please make sure that the data is correct",
+    "sign_in_screen_phone_lable": "phone number",
+    "sign_in_screen_phone_hint": "enter a phone number",
+    "sign_in_screen_password_lable": "password",
+    "sign_in_screen_password_hint": "enter a password", 
+
+
+    "sign_up_screen_title": "create a account",
+    "sign_up_screen_head": "create a account",
+    "sign_up_screen_sub_head": "create your account and enjoy an unforgettable shopping experience with us",
+    "sign_up_screen_create_account_btn": "create an account",
+    "sign_up_screen_login_error": "please make sure that the data is correct",
+    "sign_up_screen_name_lable": "full name",
+    "sign_up_screen_name_hint": "enter your name",
+    "sign_up_screen_address_lable": "your address",
+    "sign_up_screen_address_hint": "enter your address",
+    "sign_up_screen_email_lable": "email address",
+    "sign_up_screen_email_hint": "enter your email",
+    "sign_up_screen_phone_lable": "phone number",
+    "sign_up_screen_phone_hint": "enter a phone number",
+    "sign_up_screen_password_lable": "password",
+    "sign_up_screen_password_hint": "enter a password",
+    "sign_up_screen_confirm_password_lable": "confirm password",
+    "sign_up_screen_confirm_password_hint": "enter a password",
+
+
+    "validation_email_null_error": "Please enter the email",
+    "validation_email_invalid_error": "Please enter a valid email",
+    "validation_password_null_error": "Please enter the password",
+    "validation_password_short_error": "Password is too short",
+    "validation_password_match_error": "Password does not match",
+    "validation_name_null_error": "Please enter the name",
+    "validation_phone_null_error": "Please enter the phone number",
+    "validation_address_null_error": "Please enter the residential address ",
+
+    "otp_screen_title": "Identity confirmation",
+    "otp_screen_confirm_phone_title": "Confirm phone number",
+    "otp_screen_code_sent_lable": "We have sent a code to",
+    "otp_screen_resend_code_btn": "resend",
+    "otp_screen_confirm_btn": "Confirm",
+    "otp_screen_code_incorrect": "The entered code is incorrect"
+    
+}
